@@ -1,21 +1,24 @@
 
 # Python 101
 ### Level: Beginner 
-### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
+### Presentation: [here](https://slides.com/bhoomikaagarwal/python-101)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+Are you looking to learn Python but are not sure where to get started or how to get started?
+
+Then this 'concise tutorial  to a concise language' is for you!
+
+In this workshop, you will learn how to write your first Python program and gain a basic understanding of the concepts required to code in Python, along with some hands-on exercises.
 
 ## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
+No prior requirements. We will be using the online Python compiler at this [link](https://www.online-python.com/)
 
 ## Usage
 * Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+* Follow the slides and try out the exercises using the online Python compiler at this [link](https://www.online-python.com/)
 
 ## Video record
 Re-watch YouTube stream [here](https://youtu.be/KT1bnh7682A)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+This workshop was set up by @pyladiesams and @bhoom10
